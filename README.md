@@ -102,31 +102,15 @@ ID: 93 | PSS: 39
 
 ---
 
-## Repository Structure
-stress-detection/
-│
-├── data/
-│ └── stress_detection.csv
-│
-│├── docs/
-│ ├── Part 1 - Andrew Lal.pdf
-│ ├── Part 2 - Andrew Lal.pdf
-│ ├── Part 3 - Andrew Lal.pdf
-│ ├── DATA 219 Final Summary - Andrew Lal.pdf
-│ └── Stress_Detection_Dataset.pdf
-│
-├── notebooks/
-│ └── Final219Analysis.ipynb
-│
-├── results/
-│ └── figures/
-│ ├── correlation_matrix.png
-│ └── pss_distribution.png
-│
-│──LICENSE/
-│ ├── MIT License
-│
-├── README.md
+## Repository Contents
+data/ - Contains the Stress Detection dataset used for analysis (linked to Kaggle; not redistributed).
+notebooks/ - Includes the Jupyter Notebook (Final219Analysis.ipynb) with full data analysis and visualization workflow.
+results/	- Stores generated outputs and visualizations (e.g., correlation matrix, PSS distribution plots).
+docs/	- Contains project write-ups and reports (Part 1–3, final summary, dataset documentation).
+requirements.txt -	Lists the Python libraries needed to reproduce the analysis.
+README.md	- The main documentation explaining the project scope, methods, and findings.
+LICENSE -	MIT License - applying to the code and documentation in this repository.
+
 
 ---
 
