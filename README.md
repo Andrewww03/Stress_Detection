@@ -1,6 +1,7 @@
 # Stress Detection Data Analysis
 ![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 This project analyzes the **Stress Detection Dataset** to explore how behavioral, psychological, and physiological factors relate to perceived stress levels.  
 It was developed as part of my **DATA 219 coursework at WSU Vancouver**, and it demonstrates my ability to perform data cleaning, statistical analysis, visualization, and performance-efficient computation in Python.
