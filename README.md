@@ -104,13 +104,18 @@ ID: 93 | PSS: 39
 
 ## Repository Contents
 data/ - Contains the Stress Detection dataset used for analysis (linked to Kaggle; not redistributed).
-notebooks/ - Includes the Jupyter Notebook (Final219Analysis.ipynb) with full data analysis and visualization workflow.
-results/	- Stores generated outputs and visualizations (e.g., correlation matrix, PSS distribution plots).
-docs/	- Contains project write-ups and reports (Part 1–3, final summary, dataset documentation).
-requirements.txt -	Lists the Python libraries needed to reproduce the analysis.
-README.md	- The main documentation explaining the project scope, methods, and findings.
-LICENSE -	MIT License - applying to the code and documentation in this repository.
 
+notebooks/ - Includes the Jupyter Notebook (Final219Analysis.ipynb) with full data analysis and visualization workflow.
+
+results/	- Stores generated outputs and visualizations (e.g., correlation matrix, PSS distribution plots).
+
+docs/	- Contains project write-ups and reports (Part 1–3, final summary, dataset documentation).
+
+requirements.txt -	Lists the Python libraries needed to reproduce the analysis.
+
+README.md	- The main documentation explaining the project scope, methods, and findings.
+
+LICENSE -	MIT License - applying to the code and documentation in this repository.
 
 ---
 
