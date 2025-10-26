@@ -59,14 +59,14 @@ Steps performed before analysis:
 ### Correlation Matrix
 Displays weak-to-moderate relationships among behavioral and physiological metrics.
 
-![Correlation Matrix](Results/Figures/correlation_matrix.png)
+![Correlation Matrix](results/figures/correlation_matrix.png)
 
 ---
 
 ### Distribution of PSS Score
 Shows a broad spread of stress levels among participants, indicating a well-balanced dataset.
 
-![Distribution of PSS Score](Results/Figures/pss_distribution.png)
+![Distribution of PSS Score](results/figures/pss_distribution.png)
 
 ---
 
