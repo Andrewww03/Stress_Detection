@@ -148,5 +148,3 @@ School email: andrew.lal@wsu.edu
 
 ## License
 This project is open-source under the [MIT License](LICENSE).
-
-Add project README
