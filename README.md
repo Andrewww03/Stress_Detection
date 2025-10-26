@@ -141,7 +141,8 @@ Potential next steps:
 **Andrew Lal**  
 B.S. in Data Analytics — Washington State University Vancouver  
 [LinkedIn](https://www.linkedin.com/in/andrew-lal-99287320b/)  
-andrew.lal@wsu.edu  
+Main email: andrewlal03@yahoo.com  
+School email: andrew.lal@wsu.edu
 
 ---
 
