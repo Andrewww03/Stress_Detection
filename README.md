@@ -49,7 +49,7 @@ Steps performed before analysis:
 - **Heap (heapq)** – for dynamically ranking top participants by PSS score or screen-on time  
 
 **Operations:**
-- Manual computation of Pearson correlation coefficient  
+- Manual computation of the Pearson correlation coefficient  
 - Comparison of array-based vs. heap-based ranking efficiency  
 - Performance testing at different dataset sizes  
 
@@ -108,6 +108,13 @@ stress-detection/
 ├── data/
 │ └── stress_detection.csv
 │
+│├── docs/
+│ ├── Part 1 - Andrew Lal.pdf
+│ ├── Part 2 - Andrew Lal.pdf
+│ ├── Part 3 - Andrew Lal.pdf
+│ ├── DATA 219 Final Summary - Andrew Lal.pdf
+│ └── Stress_Detection_Dataset.pdf
+│
 ├── notebooks/
 │ └── Final219Analysis.ipynb
 │
@@ -116,15 +123,10 @@ stress-detection/
 │ ├── correlation_matrix.png
 │ └── pss_distribution.png
 │
-├── docs/
-│ ├── Part 1 - Andrew Lal.pdf
-│ ├── Part 2 - Andrew Lal.pdf
-│ ├── Part 3 - Andrew Lal.pdf
-│ ├── DATA 219 Final Summary - Andrew Lal.pdf
-│ └── Stress_Detection_Dataset.pdf
+│──LICENSE/
+│ ├── MIT License
 │
-├── requirements.txt
-└── README.md
+├── README.md
 
 ---
 
